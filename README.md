@@ -1,1 +1,1 @@
-# Telecom Customer Churn Prediction
+# Telco Customer Churn Prediction
